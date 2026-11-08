@@ -140,6 +140,7 @@
 61b3b8c645b45d0007a9bb8d
 61b793ccf571b80007b7a610
 61d4c2817a823d00070ba53e
+61de96114757070008d33cae
 61f07513227feb00073ee6bc
 61f33318210549000806a530
 623b92a2ccefed0007b1db48
@@ -255,7 +256,9 @@ ABCWTXL.us
 AbsoluteRealitybyWETV.us
 ACCDigitalNetwork.us
 AccuWeatherNOW.us
+AfricanewsEnglish.fr
 AFV.us
+AlJazeera.qa
 ALLBLKGems.us
 AllWeddingsWEtv.us
 AlwaysFunnyVideos.us
@@ -264,7 +267,6 @@ AmericasVoice.us
 AMP1.us
 AMP2.us
 AngerManagementChannel.us
-AnimationPlus.us
 AntiquesRoadshowUK.us
 AntiquesRoadTrip.us
 AreWeThereYet.us
@@ -303,6 +305,7 @@ Choppertown.us
 CinePride.us
 CinevaultWesterns.us
 Circle.us
+CityNewsVancouver.ca
 CityTVLakewood.us
 Clarity4K.us
 CNA.sg
@@ -362,6 +365,7 @@ FOXWNYW.us
 FOXWTTG.us
 FOXWTVT.us
 FOXWTXF.us
+France24.fr
 FrightFlix.us
 FuboSportsNetwork.us
 FunRoads.us
@@ -391,7 +395,9 @@ Homeful.ca
 HomesUnderHammer.us
 HorseCountryTV.uk
 Hungry.us
+i24NEWSEnglishWorld.il
 ImpossibleQuizShow.us
+IndiaToday.in
 INFAST.nl
 InsideCrime.us
 INWILD.nl
@@ -399,12 +405,14 @@ IONPlus.us
 JohnnyCarsonTV.us
 Journy.us
 JudgeNosey.us
+Kan11.il
 KartoonChannel.us
 KContentbyCJENM.us
 KNXVTV611.us
 KRGVTV52.us
 KTV.kr
 LATV.us
+LeFigaroTVIledeFrance.fr
 LegoChannel.us
 LiveNOWfromFOX.us
 Localish.us
@@ -423,6 +431,7 @@ MeritStreet.us
 MeTVToons.us
 MidnightPulp.us
 MidsomerMurders.us
+MirrorNow.in
 mjh-10-adultanimation
 mjh-10-anthonybourdain
 mjh-10-aussiedramapopup
@@ -536,6 +545,7 @@ NBCWTMJ.us
 NBCWTVJ.us
 NBCWVIT.us
 NBS.kr
+NDTVProfit.in
 News12Bronx.us
 News12Brooklyn.us
 News12LongIsland.us
@@ -563,6 +573,7 @@ NTDTVEnglish.us
 NTVNEWS24.jp
 OANPlus.us
 Okey.my
+OntarioParliamentaryNetwork.ca
 OUN.kr
 OutdoorAmerica.us
 OutdoorChannel.us
@@ -597,11 +608,14 @@ RevandRoll.us
 Revry.us
 RevryLatinX.us
 RevryQueer.us
+RMCDecouverte.fr
 Roar.us
 RTViUS.us
 RyanandFriends.us
 SalemNewsChannel.us
 SamsungWildlife.us
+SansadTV1.in
+SansadTV2.in
 SchwabNetwork.us
 ScrippsNews.us
 ShemarooBollywood.us
@@ -622,6 +636,7 @@ Strongman.us
 SuperSimpleSongs.us
 Survivor.us
 SwerveCombat.us
+tagesschau24.de
 talkSPORT.uk
 TalkTV.uk
 Tastemade.us
@@ -631,7 +646,9 @@ TED.us
 Teletubbies.uk
 TennisChannel.us
 TeReo.nz
+TG4.ie
 TGJunior.us
+ThaiParliamentTelevision.th
 TheArchive.us
 TheAsylum.us
 TheChatShowChannel.uk
@@ -654,13 +671,19 @@ TODAYAllDay.us
 ToonGoggles.us
 TopStoriesbyNewsy.us
 TribecaChannel.us
+TRT1.tr
+TRTHaber.tr
+TRTWorld.tr
 TrueCrime.uk
 TrueCrimeNetwork.us
 TrueCrimeNow.us
 TrueHistory.us
 TTVNews.tw
+TVCamara.br
 TVChosun.kr
 TVChosun2.kr
+TVRI.id
+TVRIWorld.id
 Unbeaten.us
 UndercoverBossGlobal.us
 Unidentified.us
@@ -681,6 +704,7 @@ WeatherSpy.au
 WeatherSpy.us
 WhakaataMaori.nz
 WillowSports.us
+WION.in
 WipeoutXtra.us
 WomensSportsNetwork.us
 Wonder.uk
